@@ -26,3 +26,6 @@ Sample Superstore dataset (public retail dataset)
 - Built an interactive dashboard to analyze sales, profit margins, and discount impact
 - Key focus on category-level profitability and loss-driving discounts
 - Tools: Power BI, SQL Server
+
+  <img width="1126" height="635" alt="image" src="https://github.com/user-attachments/assets/8f2c08bf-3218-44c3-bf6e-69577b50e400" />
+
