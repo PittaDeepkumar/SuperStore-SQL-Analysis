@@ -21,3 +21,8 @@ Sample Superstore dataset (public retail dataset)
 - Furniture shows low profitability despite high sales
 - Heavy discounting (30% and above) leads to consistent losses
 
+# Power BI Dashboard
+
+- Built an interactive dashboard to analyze sales, profit margins, and discount impact
+- Key focus on category-level profitability and loss-driving discounts
+- Tools: Power BI, SQL Server
